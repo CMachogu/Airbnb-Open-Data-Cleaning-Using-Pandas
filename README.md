@@ -22,9 +22,9 @@ The data cleaning process involved several steps to ensure the dataset was ready
 6. **Data Validation**: The cleaned dataset underwent validation to ensure that it met the necessary quality standards and was ready for further analysis.
 
 ## Files
-- airbnb_data_cleaning.ipynb: Jupyter Notebook containing the Python code used for data cleaning.
-- airbnb_cleaned.csv: Cleaned dataset in CSV format.
-- README.md: This documentation file providing an overview of the project and its contents.
+- `airbnb_data_cleaning.ipynb`: Jupyter Notebook containing the Python code used for data cleaning.
+- `airbnb_cleaned.csv`: Cleaned dataset in CSV format.
+- `README.md`: This documentation file providing an overview of the project and its contents.
 
 ## Usage
 To replicate the data cleaning process:
